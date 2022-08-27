@@ -1,0 +1,22 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# python==3.9.5
+# pip==22.0.4
+# platform: win-64
+
+flask==2.1.1
+gensim==3.8.1
+nltk==3.7
+numpy==1.22.3
+requests==2.27.1
+scipy==1.8.0
+setuptools==61.2.0
+spacy==3.2.4
+sumy==0.9.0
+urllib3==1.26.9
+waitress==2.1.2
+werkzeug==2.1.1
+wheel==0.37.1
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.2.0/en_core_web_sm-3.2.0.tar.gz
+en-core-web-sm==3.2.0
+youtube-transcript-api==0.4.4
